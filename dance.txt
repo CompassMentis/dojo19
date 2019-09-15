@@ -1,14 +1,6 @@
-p
 l up 2
-p
-r up 2
-r right 1.5
-p
+r up 2, r right 1.5
 l right 1.5
-p
 r down 2
-p
-l left 1.5
-l down 2
-p
+l left 1.5, l down 2
 r left 1.5
